@@ -31,7 +31,7 @@ I'm a lover of technology!!
 - 18 years old
 ! Python and C programmer and always studying some technology
 - I'm a Computer Science student at UFF (Universidade Federal Fluminense)
-# Interested in JavaScript, WebAssembly, Rust stuff and how cookies are made
+# Interested in JavaScript, Python, Rust stuff and how cookies are made
 ```
 
 ### 🛠 **My Tools:**
