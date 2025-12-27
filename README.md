@@ -46,11 +46,11 @@ I'm a lover of technology!!
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
+![Pandas](https://img.shields.io/badge/pandas-0F172A?logo=pandas&style=for-the-badge&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
 
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
