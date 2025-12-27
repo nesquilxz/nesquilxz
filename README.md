@@ -43,10 +43,11 @@ I'm a lover of technology!!
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&style=for-the-badge&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/C-%23323330.svg?style=for-the-badge&logo=C&logoColor=%23F3DF1EF)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![Pandas](https://img.shields.io/badge/pandas-0F172A?logo=pandas&style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-0F172A?logo=sql&style=for-the-badge&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
