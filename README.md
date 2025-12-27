@@ -47,7 +47,8 @@ I'm a lover of technology!!
 
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
 ![Pandas](https://img.shields.io/badge/pandas-0F172A?logo=pandas&style=for-the-badge&logoColor=white)
-![Sql](https://img.shields.io/badge/sql-0F172A?logo=sql&style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?logo=mysql&style=for-the-badge&logoColor=white)
+
 
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
