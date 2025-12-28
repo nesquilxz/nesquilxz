@@ -22,7 +22,7 @@
 </div>
  -->
 
-### **🧐 About:**
+### **About:**
 
 ```diff
 I'm a lover of technology!!
@@ -34,7 +34,7 @@ I'm a lover of technology!!
 + Interested in JavaScript, Pandas, Rust stuff and how cookies are made
 ```
 
-### 🛠 **My Tools:**
+### **My Tools:**
 
 <div align="center">
   
